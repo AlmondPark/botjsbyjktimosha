@@ -1,0 +1,23 @@
+{
+  "name": "discordjs-moderation-bot",
+  "version": "1.0.0",
+  "description": "Bot by JKtimosha#1837 For English ",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/choppymaster/discord.js-moderation-bot.git"
+  },
+  "keywords": [
+    "bot",
+    "discord"
+  ],
+  "author": "root admin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://www.youtube.com/channel/UC1e0donSixxk4_gWZJid-OQ"
+  },
+  "homepage": "https://www.youtube.com/channel/UC1e0donSixxk4_gWZJid-OQ"
+}
